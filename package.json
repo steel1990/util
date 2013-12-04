@@ -1,0 +1,13 @@
+{
+    "name": "util",
+    "version": "0.0.1",
+    "description": "",
+    "preferGlobal": "true",
+    "main": "./util",
+    "bin": { "util": "run.js" },
+    "author": "steel1990",
+    "engines": { "node": "*" },
+    "dependencies": {
+        "ipaddr": "*"
+    }
+}
