@@ -5,12 +5,13 @@ util is a command line tool that contain many useful tool.
 
 ## How To Use
 
-Just text `ip` and press enter in your command line, then you can see your ipv4 address below.
+util func [param1] [param2] ...
 
-## How To Install ipaddr
+func list:
 
-Just text `npm install -g ipaddr` and press enter in your command line, then wait for a moment, and it's done.
+* ip: list the ipv4 address
+* urldec: decode(url) a file(param1 is file name or filepath), if there's no param2 result will output to the screen, or will output to a new file(param2).
 
 ## Where's The Code
 
-The code of ipaddr is at [github](https://github.com/steel1990/ipaddr).
+The code of ipaddr is at [github](https://github.com/steel1990/util).
